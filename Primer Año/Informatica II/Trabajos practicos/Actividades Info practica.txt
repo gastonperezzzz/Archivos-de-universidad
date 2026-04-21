@@ -1,0 +1,17 @@
+Sea un computador con palabras de 32 bits y 16 registros de 32 bits. De estos registros el 1 es el CP el 2 el SP y los demás de propósitos . La memoria es de 256 megapalabras, el juego de instrucciones de esta máquina se reduce a 2 instrucciones (se usa 1 bit)
+Primer instrucción: 
+MOVE origen destino
+Segunda instrucción: 
+ADD destino op 1 op 2
+Los modos de direccionamiento permitidos son: inmediato, directo a registro, directo a memoria, relativo a registro,
+relativo a registro indice con pre y post incremente y decremento, indirecto e inherente. 
+El juego de instrucciones se forma con el código de operación y el campo de cada operando que debe llevar su modo de direccionamiento. 
+Se pide: diseñar los formatos de instrucción de la máquina descrita
+Los datos de un programa están en las direcciones 1E00 y 2000 (base 16). Indicar los bits necesarios del campo de dirección de una instrucción para usar direccionamiento directo.
+
+Ejercicio 1:
+Un computador utiliza un formato de instrucción de 24 bits, 8 de ellos sirven para implicar el tipo de operación a realizar, y el resto se usa para localizar los operandos:
+
+A) Cuantas operaciones distintas puede realizarse con este formato de instrucción?
+
+B) Cuantas posiciones de memoria puede accederse como máximo?

@@ -1,0 +1,26 @@
+¡Buena observación! Vamos a aclarar la diferencia entre "datos" y "archivos".
+
+¿Qué es un archivo?
+Definición:
+
+Un archivo es un conjunto de datos que se almacena en un sistema informático y que tiene un nombre y una extensión que indica su tipo. Los archivos pueden contener diferentes tipos de información, como texto, imágenes, audio, video, etc.
+Tipos de Archivos:
+
+Cada tipo de archivo tiene una extensión que lo identifica. Por ejemplo:
+Archivos de texto: .txt, .docx
+Imágenes: .jpg, .png, .gif
+Audio: .mp3, .wav
+Video: .mp4, .avi
+Estructura de un Archivo:
+
+Un archivo puede contener datos organizados de diferentes maneras, dependiendo de su tipo. Por ejemplo, un archivo de texto almacena caracteres en un formato lineal, mientras que un archivo de imagen almacena información sobre cada píxel.
+Relación entre Datos y Archivos
+Datos: Se refiere a la información en sí misma, como los números, letras, o píxeles que mencionamos antes.
+Archivos: Son la forma en que esos datos se organizan y almacenan en un sistema informático. Un archivo es un contenedor que puede incluir múltiples tipos de datos.
+Ejemplo de la Vida Real
+Imagina que tienes una caja (el archivo) en la que guardas diferentes cosas (los datos). Dentro de la caja, puedes tener un libro (texto), una foto (imagen), y un CD (audio). Cada uno de estos objetos representa un tipo de dato, pero todos están organizados y almacenados dentro de la misma caja que es el archivo.
+
+Resumen
+Archivo: Conjunto de datos almacenados en un sistema, con un nombre y una extensión que indica su tipo.
+Datos: Información que se puede almacenar y procesar, que puede estar contenida en un archivo.
+Si necesitas más aclaraciones o ejemplos, ¡no dudes en preguntar! Estoy aquí para ayudarte.
