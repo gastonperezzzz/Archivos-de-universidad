@@ -1,0 +1,4 @@
+Estudiante: Perez Mercado Gaston Ezequiel
+Matricula: ELSI1267
+DNI: 46870319
+Carrera: Licenciatura en Sistemas de Informacion
