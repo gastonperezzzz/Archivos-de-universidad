@@ -1,8 +1,0 @@
-Fluffy	Arnoldo	Gato 	f 	1999-02-04 	\N
-Mau	Juan 	Gato 	m 	1998-03-17 	\N
-Buffy	Arnoldo Perro 	f 	1999-05-13 	\N
-FanFan	Benito 	Perro 	m 	2000-08-27 	\N
-Kaiser	Diana 	Perro 	m 	1998-08-31 	1997-07-29
-Chispa	Omar 	Ave 	f 	1998-09-11 	\N
-Wicho	Tomás 	Ave 	\N 	2000-02-09 	\N
-Skim	Benito 	Serpiente 	m 	2001-04-29 	\N
